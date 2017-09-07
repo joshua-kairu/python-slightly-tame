@@ -35,7 +35,7 @@ lt(bob)
 fd(bob, 100)
 lt(bob)
 fd(bob, 100)
-lt(bob)
+lt(bob4)
 
 print (bob)
 
